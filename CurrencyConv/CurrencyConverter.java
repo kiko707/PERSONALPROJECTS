@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-//Currency Converter
+//Currency Converte
 //Author: Francisco Fernandez
 public class CurrencyConverter 
 {
